@@ -1,1 +1,2 @@
 # QRcode_Component
+
